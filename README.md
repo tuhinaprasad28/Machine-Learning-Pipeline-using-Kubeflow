@@ -1,6 +1,6 @@
 # Machine-Learning-Pipeline-using-Kubeflow
 
-## Introduction
+## INTRODUCTION
 
 This project investigates the deployment of machine learning models on Kubernetes and Localhost Server leveraging Kubeflow, 
 an open-source program that serves as an operational toolset for the complete ML stack. Our objective is to construct pipelines 
@@ -77,4 +77,24 @@ o gcloud builds submit --config configbuild.yaml . --timeout=10000
 - Kubeflow pipelines can now be created in the pipeline section of AI Platform. Now you
 can click on it, to open the Kubeflow UI.
 
-  
+## CODE ARTIFACTS:
+
+LOCALHOST SERVER KUBERFLOW UI:
+<img width="195" alt="image" src="https://user-images.githubusercontent.com/11815663/211220133-e9c9aae4-a79f-4dc3-bbe0-bf5ca03a6dca.png">
+
+GOOGLE CLOUD KUBERNETES KUBERFLOW UI:
+<img width="216" alt="image" src="https://user-images.githubusercontent.com/11815663/211220143-f5a28846-51b3-4f08-8c2d-a87639a9e2cb.png">
+
+-	Creating a new pipeline taking .yaml file:
+<img width="243" alt="image" src="https://user-images.githubusercontent.com/11815663/211220166-5c9fe6b4-c761-4f36-a723-d565f3ca9c24.png">
+
+-	Testing the pipeline!
+<img width="195" alt="image" src="https://user-images.githubusercontent.com/11815663/211220183-c4e5536a-7bf3-4732-b75b-81fbf7709787.png">
+<img width="214" alt="image" src="https://user-images.githubusercontent.com/11815663/211220184-fc361734-dbcb-4545-a971-319b9a072c4c.png">
+
+-	Test Run (Finding the Accuracy)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/11815663/211220203-02c66c3a-1c49-48fa-95b7-51775f8dc54d.png">
+<img width="209" alt="image" src="https://user-images.githubusercontent.com/11815663/211220206-3c413efc-db91-46f1-85f1-1dec92a86c5b.png">
+
+
+
