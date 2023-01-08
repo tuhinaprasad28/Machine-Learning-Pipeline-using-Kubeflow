@@ -13,7 +13,7 @@ of Kubernetes and the Google Cloud Platform enabling them to set up machine lear
 What is Kubeflow? An open-source project that combines the most widely used data science tools. The main idea is to accelerate the development of machine learning applications starting with the prototype stage. Google created the open source Kubeflow platform to contain the machine learning model development life cycle. The machine learning life cycle is made up of several operations, including data exploration, feature engineering, feature transformation, model experimentation, training, assessment, tuning, serving, and versioning. The set of tools that make up Kubeflow addresses each of these aspects. A Kubernetes cluster's built-in capabilities, such as container orchestration and auto-scaling, are used by Kubeflow because it is created to run on top of Kubernetes.
 Although Kubernetes is a widely used technology for container orchestration, it may be difficult and time-consuming for data scientists or machine learning engineers to configure and coordinate each stage of the machine learning life cycle in a Kubernetes cluster. Therefore, Kubeflow acts as the platform that offers the tools to build, create, automate, and deploy each stage of the machine learning life cycle in a Kubernetes cluster rather than needing data scientists or machine learning engineers to do it manually.
 
-<img width="327" alt="image" src="https://user-images.githubusercontent.com/11815663/199405667-3f7062b0-bbf9-44ab-9429-6f20484d43cb.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/11815663/199405667-3f7062b0-bbf9-44ab-9429-6f20484d43cb.png">
 
 Figure 1: Kubeflow
     
