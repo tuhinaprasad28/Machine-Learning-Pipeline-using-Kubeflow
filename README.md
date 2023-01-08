@@ -34,6 +34,9 @@ According to SlashData's most recent State of Cloud Native Development Report fo
                                               Figure 2: Popularity of Kubernetes
                                               
 Kubernetes has proven that it can satisfy the demands of the enterprise by being embraced by big businesses and by the exponential expansion of containers. Without realizing it, developers are utilizing Kubernetes in some or other way. Many of the most well-known services may use Kubernetes to a greater or lesser extent than developers are aware of. Even though Kubernetes has drawn more attention since 2020, many backend engineers are still unaware of its potential benefits. 21% of them claim to have heard of Kubernetes but have no clue what it does, while 11% say they have never ever heard of it.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/11815663/211220299-7cb5f07e-0355-4f2e-a9c5-86f8dd8388b1.png">
+
 Figure 3: Kubernetes usage and with respect to its awareness among backend developers
 
   
@@ -47,6 +50,9 @@ The environment to create and run Kubeflow pipelines UI on Localhost Server is a
 o curl.exe-Lo kind-windows-amd64.exe https://kind.sigs.k8s.io/dl/v0.16.0/kind-
 windows-amd64
 - Creating clusters: cmd: kind create cluster
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/11815663/211220285-f8aa6e71-1f3e-4eab-acf5-74ac83e5d7c3.png">
+
 - Execute the following commands to deploy the Kubeflow Pipelines:
 o kubectl apply -k "github.com/kubeflow/pipelines/manifests/kustomize/cluster-
 scoped-resources?ref=1.8.5"
