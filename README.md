@@ -80,10 +80,12 @@ can click on it, to open the Kubeflow UI.
 ## CODE ARTIFACTS:
 
 LOCALHOST SERVER KUBERFLOW UI:
-<img width="195" alt="image" src="https://user-images.githubusercontent.com/11815663/211220133-e9c9aae4-a79f-4dc3-bbe0-bf5ca03a6dca.png">
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/11815663/211220133-e9c9aae4-a79f-4dc3-bbe0-bf5ca03a6dca.png">
 
 GOOGLE CLOUD KUBERNETES KUBERFLOW UI:
-<img width="216" alt="image" src="https://user-images.githubusercontent.com/11815663/211220143-f5a28846-51b3-4f08-8c2d-a87639a9e2cb.png">
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/11815663/211220143-f5a28846-51b3-4f08-8c2d-a87639a9e2cb.png">
 
 -	Creating a new pipeline taking .yaml file:
 <img width="243" alt="image" src="https://user-images.githubusercontent.com/11815663/211220166-5c9fe6b4-c761-4f36-a723-d565f3ca9c24.png">
