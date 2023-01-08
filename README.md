@@ -31,7 +31,7 @@ According to SlashData's most recent State of Cloud Native Development Report fo
 <img width="203" alt="image" src="https://user-images.githubusercontent.com/11815663/211220019-b4a924ec-41d6-4212-9048-4f99c9d6f94a.png">
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/11815663/211220032-dce534b9-e838-4ec0-b0a9-1bdf151b2023.png">
 
-                                              Figure 2: Popularity of Kubernetes
+Figure 2: Popularity of Kubernetes
                                               
 Kubernetes has proven that it can satisfy the demands of the enterprise by being embraced by big businesses and by the exponential expansion of containers. Without realizing it, developers are utilizing Kubernetes in some or other way. Many of the most well-known services may use Kubernetes to a greater or lesser extent than developers are aware of. Even though Kubernetes has drawn more attention since 2020, many backend engineers are still unaware of its potential benefits. 21% of them claim to have heard of Kubernetes but have no clue what it does, while 11% say they have never ever heard of it.
 
